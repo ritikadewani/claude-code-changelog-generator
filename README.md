@@ -24,4 +24,3 @@ See [sample_changelog.md](sample_changelog.md) for an example output.
 ## Built With
 
 Built using Claude Code in ~1 hour.
-cp changelog.md sample_changelog.md
